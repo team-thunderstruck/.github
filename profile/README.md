@@ -1,6 +1,6 @@
 <div align="center">
 
-# ⚡ Team Thunderstruck
+# Team Thunderstruck
 
 ### *Harnessing the Power of Data and Lightning-Fast Innovation*
 
@@ -19,7 +19,7 @@
 
 ---
 
-## 🌩️ Who We Are
+##  Who We Are
 
 **Team Thunderstruck** is a competitive team of machine learning enthusiasts, data scientists, and open-source contributors dedicated to building cutting-edge AI solutions.
 
@@ -31,23 +31,23 @@ Our mission is simple:
 
 ---
 
-## 🏆 What We Do
+##  What We Do
 
-### 🤖 Machine Learning Competitions
+###  Machine Learning Competitions
 - Kaggle competitions
 - DrivenData challenges
 - Time series forecasting contests
 - Computer vision challenges
 - Natural language processing tasks
 
-### 🔓 Open Source Development
+### Open Source Development
 - Machine learning frameworks and utilities
 - Data preprocessing tools
 - Training pipelines
 - Model evaluation libraries
 - Experiment tracking solutions
 
-### 📚 Research & Learning
+### Research & Learning
 - Reproducing state-of-the-art papers
 - Benchmarking algorithms
 - Sharing tutorials and notebooks
@@ -73,19 +73,19 @@ Our mission is simple:
 
 ---
 
-## 🚀 Featured Areas
+## Featured Areas
 
-- 📈 Time Series Forecasting
-- 🖼️ Computer Vision
-- 🧠 Deep Learning
-- 📝 Natural Language Processing
-- 🎯 Tabular Machine Learning
-- ☁️ MLOps & Deployment
-- 🔬 Applied Research
+-  Time Series Forecasting
+-  Computer Vision
+-  Deep Learning
+-  Natural Language Processing
+-  Tabular Machine Learning
+-  MLOps & Deployment
+-  Applied Research
 
 ---
 
-## 🏅 Competition Platforms
+##  Competition Platforms
 
 <div align="center">
 
@@ -93,14 +93,12 @@ Our mission is simple:
 |--------|--------|
 | Kaggle | Global machine learning competitions |
 | DrivenData | Social impact challenges |
-| Zindi | Data science for Africa |
-| AIcrowd | Community-driven AI competitions |
 
 </div>
 
 ---
 
-## 📂 Open Source Philosophy
+##  Open Source Philosophy
 
 We believe that innovation grows stronger when knowledge is shared.
 
@@ -113,15 +111,15 @@ Our repositories include:
 - Educational resources
 
 All projects are designed to be:
-- ⚡ Fast
-- 🧩 Modular
-- 📦 Production-ready
-- 📖 Well documented
-- 🧪 Thoroughly tested
+-  Fast
+-  Modular
+-  Production-ready
+-  Well documented
+-  Thoroughly tested
 
 ---
 
-## 🌎 Our Vision
+##  Our Vision
 
 To become a recognized force in the machine learning community by combining:
 
@@ -132,26 +130,10 @@ To become a recognized force in the machine learning community by combining:
 
 ---
 
-## 🤝 Join the Storm
+##  Join the Storm
 
 We welcome contributors, researchers, and machine learning enthusiasts who are passionate about building intelligent systems and pushing the boundaries of AI.
 
 > **Ride the lightning. Build the future.**
 
 ---
-
-## 📫 Connect With Us
-
-<p align="center">
-  <a href="https://github.com/team-thunderstruck">
-    <img src="https://img.shields.io/badge/GitHub-Team%20Thunderstruck-181717?style=for-the-badge&logo=github" />
-  </a>
-</p>
-
----
-
-<div align="center">
-
-## ⚡ "Where Data Meets Thunder."
-
-</div>
