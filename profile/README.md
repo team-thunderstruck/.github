@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="1254" height="1254" alt="ChatGPT Image 10 de mai  de 2026, 13_31_22" src="https://github.com/user-attachments/assets/ed85a25b-5afd-4768-bf38-eb3839c5ea6a" />
+<img width="256" height="256" alt="ChatGPT Image 10 de mai  de 2026, 13_31_22" src="https://github.com/user-attachments/assets/ed85a25b-5afd-4768-bf38-eb3839c5ea6a" />
 
 ### *Harnessing the Power of Data and Lightning-Fast Innovation*
 
